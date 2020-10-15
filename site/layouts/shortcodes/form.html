@@ -3,8 +3,8 @@
 <link rel="stylesheet" href="{{ $style.Permalink }}">
 
 <form netlify>      
-  <input name="name" type="text" class="feedback-input" placeholder="{{ i18n `Name` }}" />   
-  <input name="email" type="text" class="feedback-input" placeholder="{{ i18n `Email` }}" />
-  <textarea name="text" class="feedback-input" placeholder="Message"></textarea>
+  <input name="name" type="text" class="feedback-input" required placeholder="{{ i18n `Name` }}" />   
+  <input name="email" type="email" class="feedback-input" required placeholder="{{ i18n `Email` }}" />
+  <textarea name="text" class="feedback-input" required placeholder="Message"></textarea>
   <input type="submit" value="SUBMIT"/>
 </form>
