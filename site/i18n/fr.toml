@@ -3,3 +3,6 @@ other = "Nom"
 
 [Email]
 other = "Courriel"
+
+[SUBMIT]
+other = "SOUMETTRE"

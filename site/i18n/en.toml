@@ -3,3 +3,6 @@ other = "Name"
 
 [Email]
 other = "Email"
+
+[SUBMIT]
+other = "SUBMIT"
