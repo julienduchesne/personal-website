@@ -96,52 +96,43 @@ pygmentscodefencesguesssyntax = true
         [languages.en.menu]
 
             [[languages.en.menu.main]]
-            name = "About"
+            name = "Resume"
             weight = 1
-            url = "about/"
-
-            [[languages.en.menu.main]]
-            name = "Blog"
-            weight = 2
-            url = "posts/"
+            url = "resume/"
 
             [[languages.en.menu.main]]
             name = "Projects"
-            weight = 3
+            weight = 2
             url = "projects/"
 
             [[languages.en.menu.main]]
             name = "Contact me"
-            weight = 5
-            url = "contact/"
-
-
-    [languages.fr]
-        languagename = "Français"
-
-        [languages.fr.params]
-            info = "Ingénieur DevOps et Outillage"
-            description = "Site personnel de Julien Duchesne"
-            keywords = "developpeur,personnel"
-
-        [languages.fr.menu]
-
-            [[languages.fr.menu.main]]
-            name = "À Propos"
-            weight = 1
-            url = "about/"
-
-            [[languages.fr.menu.main]]
-            name = "Blog"
-            weight = 2
-            url = "posts/"
-
-            [[languages.fr.menu.main]]
-            name = "Projets"
             weight = 3
-            url = "projects/"
-
-            [[languages.fr.menu.main]]
-            name = "Me Contacter"
-            weight = 5
             url = "contact/"
+
+#
+#    [languages.fr]
+#        languagename = "Français"
+#
+#        [languages.fr.params]
+#            info = "Ingénieur DevOps et Outillage"
+#            description = "Site personnel de Julien Duchesne"
+#            keywords = "developpeur,personnel"
+#
+#        [languages.fr.menu]
+#
+#            [[languages.fr.menu.main]]
+#            name = "CV"
+#            weight = 1
+#            url = "resume/"
+#
+#            [[languages.fr.menu.main]]
+#            name = "Projets"
+#            weight = 2
+#            url = "projects/"
+#
+#            [[languages.fr.menu.main]]
+#            name = "Me Contacter"
+#            weight = 3
+#            url = "contact/"
+#
