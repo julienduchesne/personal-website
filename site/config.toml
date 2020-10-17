@@ -110,28 +110,29 @@ pygmentscodefencesguesssyntax = true
             weight = 3
             url = "contact/"
 
-
-    [languages.fr]
-        languagename = "Français"
-
-        [languages.fr.params]
-            info = "Ingénieur DevOps et Outillage"
-            description = "Site personnel de Julien Duchesne"
-            keywords = "developpeur,personnel"
-
-        [languages.fr.menu]
-
-            [[languages.fr.menu.main]]
-            name = "CV"
-            weight = 1
-            url = "resume/"
-
-            [[languages.fr.menu.main]]
-            name = "Projets"
-            weight = 2
-            url = "projects/"
-
-            [[languages.fr.menu.main]]
-            name = "Me Contacter"
-            weight = 3
-            url = "contact/"
+#
+#    [languages.fr]
+#        languagename = "Français"
+#
+#        [languages.fr.params]
+#            info = "Ingénieur DevOps et Outillage"
+#            description = "Site personnel de Julien Duchesne"
+#            keywords = "developpeur,personnel"
+#
+#        [languages.fr.menu]
+#
+#            [[languages.fr.menu.main]]
+#            name = "CV"
+#            weight = 1
+#            url = "resume/"
+#
+#            [[languages.fr.menu.main]]
+#            name = "Projets"
+#            weight = 2
+#            url = "projects/"
+#
+#            [[languages.fr.menu.main]]
+#            name = "Me Contacter"
+#            weight = 3
+#            url = "contact/"
+#
