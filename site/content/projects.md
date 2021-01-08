@@ -24,7 +24,7 @@ Why not play around with some Rust UI libraries while doing Advent of Code? This
 
 [Github Repository](https://github.com/julienduchesne/challenges-rust-tui)  
 
-### Cursive TUI (Text-based UI) Frontend
+### [Cursive](https://github.com/gyscos/cursive) TUI (Text-based UI) Frontend
 ![TUI](/images/challenges-tui.gif)
 
 ### What next?
