@@ -30,9 +30,9 @@ Current modules:
 ![TUI](/images/challenges-tui.gif)
 * [Rocket](https://rocket.rs/) API with (bad) React frontend
 ![React](/images/challenges-react.gif)
-* Advent of Code 2020 solved with Rust
-* Advent of Code 2019 solved with Go
+* Advent of Code 2020 solved with Rust (Directly called from the API)
+* Advent of Code 2019 solved with Go (Served to the main API through a REST API)
 
 Future modules:
 
-* Advent of Code 2018 solved with Python
+* Advent of Code 2018 solved with Python (Served to the main API through a REST API)
