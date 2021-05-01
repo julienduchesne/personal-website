@@ -18,16 +18,21 @@ A fun departure from the usual DevOps/Golang/Python/Backend stuff I do at work. 
 
 ![Mastermind Phaser](/images/mastermind-phaser.png)
 
-## Rust Code Challenges
+## Code Challenges
 
-Why not play around with some Rust UI libraries while doing Advent of Code? This project contains my solutions to Advent of Code with a small terminal frontend in front of it
+An embarrassingly complex showcase of challenge solutions. This serves as a playground to try out new languages. A new group of challenges can be added by adding a new independent module (microservice), it can therefore be implemented in any language
 
-[Github Repository](https://github.com/julienduchesne/challenges-rust-tui)  
+[Github Repository](https://github.com/julienduchesne/challenges)
 
-### [Cursive](https://github.com/gyscos/cursive) TUI (Text-based UI) Frontend
+Current modules:
+
+* [Cursive](https://github.com/gyscos/cursive) TUI (Text-based UI) frontend
 ![TUI](/images/challenges-tui.gif)
+* [Rocket](https://rocket.rs/) API with (bad) React frontend
+![React](/images/challenges-react.gif)
+* Advent of Code 2020 solved with Rust
+* Advent of Code 2019 solved with Go
 
-### What next?
+Future modules:
 
-* Solving other years of Advent of Code/Project Euler/Whatever I can find and looks fun. Doesn't have to be in Rust, I'd also like to try some interop libraries
-* Adding a [Rocket](https://rocket.rs/) frontend. I'd like to try out Rust's API development experience
+* Advent of Code 2018 solved with Python
