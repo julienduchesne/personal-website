@@ -32,7 +32,5 @@ Current modules:
 ![React](/images/challenges-react.gif)
 * Advent of Code 2020 solved with Rust (Directly called from the API)
 * Advent of Code 2019 solved with Go (Served to the main API through a REST API)
+* Advent of Code 2018 solved with Bash (Served to the main API through a REST API)
 
-Future modules:
-
-* Advent of Code 2018 solved with Python (Served to the main API through a REST API)
